@@ -2,31 +2,64 @@
     margin: o;
     padding: 0; 
     box-sizing: border-box;
+    
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    padding-top: 10px;
 }
 .jumbotron{
     background-color:skyblue ;
+    
 }
 .container{
-    width: 70%;
+    width: 60%;
     margin: 0 auto;    
-    background-color:red ;
+   
     
     
 }
 .row{
     display:flex;
 }
+.justify{
+   justify-content: space-between; 
+}
 .col-35{
     width: 35%;
     height:500px;
-    background-color: yellow;
+    
 }
 .col-65{
     width: 65%;
     height:500px;
     background-color: blue;
 }
-#jumbotron-link{
+h2{
+    padding-top: 20px;
+    font-size: 65px;
+}
+a{
    text-decoration: none;
    color: black;
+}
+.jumbotron-link{
+    margin-top: 50px;
+   
+}
+#stile-link{
+    padding: 10px;
+    color: white;
+    background-color: blue;
+}
+span{
+    padding-left: 10px;
+    padding-right: 30px;
+}
+#header-inizia{
+    padding: 10px;
+    color: white;
+    background-color: blue;
 }
