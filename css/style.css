@@ -1,0 +1,32 @@
+*{
+    margin: o;
+    padding: 0; 
+    box-sizing: border-box;
+}
+.jumbotron{
+    background-color:skyblue ;
+}
+.container{
+    width: 70%;
+    margin: 0 auto;    
+    background-color:red ;
+    
+    
+}
+.row{
+    display:flex;
+}
+.col-35{
+    width: 35%;
+    height:500px;
+    background-color: yellow;
+}
+.col-65{
+    width: 65%;
+    height:500px;
+    background-color: blue;
+}
+#jumbotron-link{
+   text-decoration: none;
+   color: black;
+}
