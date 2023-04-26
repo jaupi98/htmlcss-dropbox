@@ -109,6 +109,7 @@ padding-top: 10px;
     /* height: 500px; */
     border-style: solid;
     border-color: black;
+    border-width: 1px;
 }
 .container-blue{
     /* background-color: blue; */
@@ -126,6 +127,7 @@ padding-top: 10px;
     /* background-color: black; */
     border-style: solid;
     border-color: black;
+    border-width: 1px;
 
 }
 .col-90{
@@ -135,6 +137,7 @@ padding-top: 10px;
     display: flex;
     border-style: solid;
     border-color: black;
+    border-width: 1px;
 }
 
 .col-60{
@@ -198,4 +201,31 @@ padding-top: 10px;
 .row-wrap-img-6{
     height: 20px;
    
+}
+.question{
+    margin-top: 500px;
+}
+footer{
+    margin-top: 200px;
+}
+.col-20{
+    width:20%;
+}
+footer{
+    background-color: black;
+}
+.footer-lista{
+    color: white;
+    list-style: none;
+
+}
+h4{
+    color: white;
+}
+li{
+    padding-top: 20px;
+}
+.contenitore-lista{
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
